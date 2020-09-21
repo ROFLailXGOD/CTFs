@@ -19,11 +19,11 @@ Cipher : 19291430751948873984131755589697911617649448929567595400592298165529606
 
 В таких ситуациях, обычно, обращаются к великому и могучему, т.е. к гуглу. Запрос `rsa n e dp` выводит нас на следующую станицу на [SE](https://crypto.stackexchange.com/questions/46486/rsa-given-n-e-dp-is-it-possible-to-find-d), откуда мы и узнаём заветную формулу:
 
-![](https://latex2image.joeraut.com/output/img-d862c6c31f65bea8.png)
+![](https://latex.codecogs.com/gif.latex?%5Cgcd%28%20n%2C%20r%5E%7Be%20%5Ccdot%20d_P%7D%20-%20r%5Cbmod%20n%20%29)
 
 В качестве `r` я выбрал 3, хотя 2 тоже сработает. Т.к. `r < n`, то
 
-![](https://latex2image.joeraut.com/output/img-fab7435376fc6fc6.png)
+![](https://latex.codecogs.com/gif.latex?%5Cgcd%28%20n%2C%20r%5E%7Be%20%5Ccdot%20d_P%7D%20-%20r%5Cbmod%20n%20%29%3D%5Cgcd%28%20n%2C%20r%5E%7Be%20%5Ccdot%20d_P%7D%5Cbmod%20n%20-%20r%20%29)
 
 Зная `p`, найти остальные значения и дешифровать сообщение не составляет труда. Всё, что остаётся, - это скормить все входные данные в Python. С полным кодом можно ознакомиться [тут](https://github.com/ROFLailXGOD/CTFs/tree/master/FwordCTF%202020/Crypto/One%20Part/one_part.py).
 
