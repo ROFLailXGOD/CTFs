@@ -10,7 +10,7 @@
 исправиться.
 
 Соревнования:
-* [FwordCTF 2020](/FwordCTF 2020/README.md)
+* [FwordCTF 2020](./FwordCTF 2020/README.md)
 * [ALLES! CTF 2020]
 * [CSAW CTF Qualification Round 2020]
 * [DownUnderCTF]
