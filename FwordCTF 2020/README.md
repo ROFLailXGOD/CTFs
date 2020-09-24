@@ -13,7 +13,7 @@
 Решённые задания:
 * Misc
   * [Secret Array](./Misc/Secret%20Array)
-  * [NULL]
+  * [NULL](./Misc/NULL)
 * Crypto
   * [One Part](./Crypto/One%20Part)
 * Forensics
