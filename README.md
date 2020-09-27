@@ -13,4 +13,5 @@
 * [FwordCTF 2020](/FwordCTF%202020)
 * [ALLES! CTF 2020](/ALLES!%20CTF%202020)
 * [CSAW CTF Qualification Round 2020](/CSAW%20CTF%20Qualification%20Round%202020)
-* [DownUnderCTF]
+* [DownUnderCTF](/DownUnderCTF%202020)
+* [DarkCTF]
