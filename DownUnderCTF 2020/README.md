@@ -21,7 +21,7 @@
 * Web
   * [Leggos](./Web/Leggos)
 * Crypto
-  * [rot-i]
+  * [rot-i](./Crypto/rot-i)
   * [Extra Cool Block Chaining]
   * [Hex Shift Cipher]
 * Misc
@@ -34,6 +34,6 @@
   * [Shell this!]
   * [Return to what]
 * Reversing
-  * [formatting]
-  * [added protection]
+  * [formatting](./Reversing/formatting)
+  * [added protection](./Reversing/added%20protection)
  
