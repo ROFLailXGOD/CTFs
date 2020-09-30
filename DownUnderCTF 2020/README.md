@@ -23,7 +23,7 @@
 * Crypto
   * [rot-i](./Crypto/rot-i)
   * [Extra Cool Block Chaining]
-  * [Hex Shift Cipher]
+  * [Hex Shift Cipher](./Crypto/Hex%20Shift%20Cipher)
 * Misc
   * Twitter (10 points, 604 solves) - заходим в Твиттер, скроллим до первого твитта и берём флаг, декодируя из base64
   * Discord (10 points, 433 solves) - заходим на сервер, забираем флаг из описания канала
