@@ -23,7 +23,7 @@
   * [Leggos](./Web/Leggos)
 * Crypto
   * [rot-i](./Crypto/rot-i)
-  * [Extra Cool Block Chaining]
+  * [Extra Cool Block Chaining](./Crypto/Extra%20Cool%20Block%20Chaining)
   * [Hex Shift Cipher](./Crypto/Hex%20Shift%20Cipher)
 * Misc
   * Twitter (10 points, 604 solves) - заходим в Твиттер, скроллим до первого твитта и берём флаг, декодируя из base64
@@ -33,7 +33,7 @@
   * [In a pickle](./Misc/In%20a%20pickle)
 * pwn
   * [Shell this!](Pwn/Shell%20this!)
-  * [Return to what]
+  * [Return to what](Pwn/Return%20to%20what)
 * Reversing
   * [formatting](./Reversing/formatting)
   * [added protection](./Reversing/added%20protection)
