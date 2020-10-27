@@ -31,7 +31,7 @@
   * [Welcome!](./Misc/Welcome!)
   * [16 Home Runs](./Misc/16%20Home%20Runs)
   * [In a pickle](./Misc/In%20a%20pickle)
-* pwn
+* Pwn
   * [Shell this!](Pwn/Shell%20this!)
   * [Return to what](Pwn/Return%20to%20what)
 * Reversing

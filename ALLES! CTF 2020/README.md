@@ -15,7 +15,7 @@
 
 Решённые задания:
 * Sanity
-  * Sanity Check (56 points, 433 solves) - заходим на дискорд сервер и забираем флаг из описания канала.
+  * Sanity Check (56 points, 433 solves) - заходим на IRC сервер и забираем флаг из описания канала.
 * Pyjail
   * [Pyjail ATricks](./Pyjail/Pyjail%20ATricks)
   * [Pyjail Escape](./Pyjail/Pyjail%20Escape)
