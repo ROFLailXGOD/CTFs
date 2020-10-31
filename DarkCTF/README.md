@@ -39,14 +39,14 @@
   * [Minetest 2]
   * [QuickFix]
 * Pwn
-  * [roprop]
+  * [roprop](./Pwn/roprop)
 * Reversing
   * [so_much](./Reversing/so_much)
   * [HelloWorld](./Reversing/HelloWorld)
-  * [strings]
+  * [strings](./Reversing/strings)
 * Web
   * [Source](./Web/Source)
   * [Apache Logs](./Web/Apache%20Logs)
   * [Simple_SQL](./Web/Simple_SQL)
   * [So_Simple](./Web/So_Simple)
-  * [PHP information]
+  * [PHP information](./Web/PHP%20Information)
