@@ -1,9 +1,13 @@
 # crcket (469 points)
 
 > DarkArmy's openers bagging as many runs as possible for our team.
+>
 >    1st over: 86 runs
+>
 >    2nd over: 37 runs
+>
 >    3rd over: 4 runs
+>
 >    4th over: 52 runs
 
 К заданию прикреплено изображение [crcket.png](./crcket.png). Конечно же, оно "поломано". Открытие в hex-редакторе
