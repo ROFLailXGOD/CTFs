@@ -22,13 +22,13 @@
 * Crypto
   * [haxXor](./Crypto/haxXor)
   * [Pipe Rhyme](./Crypto/Pipe%20Rhyme)
-  * [WEIRD ENCRYPTION]
+  * [WEIRD ENCRYPTION](./Crypto/WEIRD%20ENCRYPTION)
 * Feedback
   * Feedback (500 points, 233 solves) - оставляем отзыв и получаем аж 500 баллов!
 * Forensics
-  * [Wolfie's Contact]
-  * [AW]
-  * [crcket]
+  * [Wolfie's Contact](./Forensics/Wolfie's%20Contact)
+  * [AW](./Forensics/AW)
+  * [crcket](./Forensics/crcket)
   * [TRICKY BIT]
 * Linux
   * [linux starter](./Linux/linux%20starter)
