@@ -29,12 +29,12 @@
   * [Wolfie's Contact](./Forensics/Wolfie's%20Contact)
   * [AW](./Forensics/AW)
   * [crcket](./Forensics/crcket)
-  * [TRICKY BIT]
+  * [TRICKY BIT](./Forensics/TRICKY%20BIT)
 * Linux
   * [linux starter](./Linux/linux%20starter)
 * Misc
   * sanity_check (100 points, 509 solves) - заходим на дискорд сервер, пишем `$flag` в канале #darkbot
-  * [Flag of Life]
+  * [Flag of Life](./Misc/Flag%20of%20Life)
   * [Minetest 1]
   * [Minetest 2]
   * [QuickFix]
