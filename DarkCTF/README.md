@@ -35,9 +35,9 @@
 * Misc
   * sanity_check (100 points, 509 solves) - заходим на дискорд сервер, пишем `$flag` в канале #darkbot
   * [Flag of Life](./Misc/Flag%20of%20Life)
-  * [Minetest 1]
-  * [Minetest 2]
-  * [QuickFix]
+  * [Minetest 1](./Misc/Minetest%201)
+  * [Minetest 2](./Misc/Minetest%202)
+  * [QuickFix](./Misc/QuickFix)
 * Pwn
   * [roprop](./Pwn/roprop)
 * Reversing
