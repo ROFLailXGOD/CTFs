@@ -12,12 +12,13 @@
 что решил задание, за которое получил аж 479 очков, хотя оно было несложным. Впервые познакомился с OSINT категорией.
 
 Решённые задания:
-* Misc
-  * [Secret Array](./Misc/Secret%20Array)
-  * [NULL](./Misc/NULL)
+
 * Crypto
   * [One Part](./Crypto/One%20Part)
 * Forensics
   * [Memory](./Forensics/Memory)
+* Misc
+  * [Secret Array](./Misc/Secret%20Array)
+  * [NULL](./Misc/NULL)
 * Reversing
   * [Welcome Reverser](./Reversing/Welcome%20Reverser)

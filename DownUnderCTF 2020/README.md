@@ -15,26 +15,27 @@
 целом я доволен результатом.
 
 Решённые задания:
-* OSINT
-  * [Bad man](./OSINT/Bad%20man)
-* Forensics
-  * [On the spectrum](./Forensics/On%20the%20spectrum)
-* Web
-  * [Leggos](./Web/Leggos)
+
 * Crypto
   * [rot-i](./Crypto/rot-i)
   * [Extra Cool Block Chaining](./Crypto/Extra%20Cool%20Block%20Chaining)
   * [Hex Shift Cipher](./Crypto/Hex%20Shift%20Cipher)
+* Forensics
+  * [On the spectrum](./Forensics/On%20the%20spectrum)
 * Misc
   * Twitter (10 points, 604 solves) - заходим в Твиттер, скроллим до первого твитта и берём флаг, декодируя из base64
   * Discord (10 points, 433 solves) - заходим на сервер, забираем флаг из описания канала
   * [Welcome!](./Misc/Welcome!)
   * [16 Home Runs](./Misc/16%20Home%20Runs)
   * [In a pickle](./Misc/In%20a%20pickle)
+* OSINT
+  * [Bad man](./OSINT/Bad%20man)  
 * Pwn
   * [Shell this!](Pwn/Shell%20this!)
   * [Return to what](Pwn/Return%20to%20what)
 * Reversing
   * [formatting](./Reversing/formatting)
   * [added protection](./Reversing/added%20protection)
+* Web
+  * [Leggos](./Web/Leggos)
  

@@ -19,6 +19,7 @@
 Ах да, спасибо за [DarkCTF_HTD.pdf](./DarkCTF_HTD.pdf). Было приятно.
 
 Решённые задания:
+
 * Crypto
   * [haxXor](./Crypto/haxXor)
   * [Pipe Rhyme](./Crypto/Pipe%20Rhyme)

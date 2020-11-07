@@ -1,8 +1,8 @@
 # Hack.lu CTF 2020
 
-* Дата проведения: 23.10.2020 13:37 UTC - 35.10.2020 13:37 UTC
+* Дата проведения: 23.10.2020 13:37 UTC - 25.10.2020 13:37 UTC
 * Количество набранных баллов: 795
-* Количество решённых заданий: 4
+* Количество решённых заданий: 5
 * Место: 91/302
 * Вес соревнований: 87.94
 
@@ -13,10 +13,13 @@
 немного не успел. В любом случае, результатом я доволен. 
 
 Решённые задания:
+
+* Crypto
+  * [Bad Primes](./Crypto/Bad%20Primes)
 * Misc
   * [Callboy]
   * [P*rn Protocol]
-* Crypto
-  * [Bad Primes](./Crypto/Bad%20Primes)
+* Reversing
+  * [flagdroid]
 * Web
   * [FluxCloud Serverless](./Web/FluxCloud%20Serverless)
