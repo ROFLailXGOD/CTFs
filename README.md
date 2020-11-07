@@ -15,5 +15,5 @@
 * [CSAW CTF Qualification Round 2020](/CSAW%20CTF%20Qualification%20Round%202020)
 * [DownUnderCTF](/DownUnderCTF%202020)
 * [DarkCTF](/DarkCTF)
-* [Hack.lu CTF 2020]
+* [Hack.lu CTF 2020](/Hack.lu%20CTF%202020)
 * [CyberSecurityRumble CTF]
