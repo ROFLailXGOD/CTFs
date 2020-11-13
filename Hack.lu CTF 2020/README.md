@@ -17,8 +17,8 @@
 * Crypto
   * [Bad Primes](./Crypto/Bad%20Primes)
 * Misc
-  * [Callboy]
-  * [P*rn Protocol]
+  * [Callboy](./Misc/Callboy)
+  * [P*rn Protocol](./Misc/P*rn%20Protocol)
 * Reversing
   * [flagdroid]
 * Web
