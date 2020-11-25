@@ -20,6 +20,6 @@
   * [Callboy](./Misc/Callboy)
   * [P*rn Protocol](./Misc/P*rn%20Protocol)
 * Reversing
-  * [flagdroid]
+  * [flagdroid](./Reversing/flagdroid)
 * Web
   * [FluxCloud Serverless](./Web/FluxCloud%20Serverless)
