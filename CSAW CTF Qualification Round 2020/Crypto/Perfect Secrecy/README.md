@@ -3,7 +3,7 @@
 > Alice sent over a couple of images with sensitive information to Bob, encrypted with a pre-shared key. It is the most 
 > secure encryption scheme, theoretically...
 
-Также к заданию прикреплены 2 файла - image1.png и image2.png:
+Также к заданию прикреплены 2 файла — image1.png и image2.png:
 
 ![image1.png](./image1.png) ![image2.png](./image2.png)
 

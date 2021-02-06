@@ -12,7 +12,7 @@
 отдельного задания. На мой взгляд довольно справедливое решение по отношению к тем, кто успел решить задание до фикса.
 
 Буду честен, я решил лишь при помощи лазейки, которую нашёл путём сравнения файлов из двух версий задания.
-Прикладываю обе - [app](./app) и [app_fixed](./app_fixed) соответственно. Различия находятся в файле `waf.js`:
+Прикладываю обе — [app](./app) и [app_fixed](./app_fixed) соответственно. Различия находятся в файле `waf.js`:
 
 ##### Оригинал:
 
@@ -84,8 +84,8 @@ function checkRecursive(value) {
 
 Так, тут [includes](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String/includes) был
 заменён на [test](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/RegExp/test) (regex).
-К чему бы это? А ответ прост - первый вариант является регистрозависимым. Поэтому `flag` являлся запрещённым словом, а
-`Flag` - нет.
+К чему бы это? А ответ прост — первый вариант является регистрозависимым. Поэтому `flag` являлся запрещённым словом, а
+`Flag` — нет.
 
 В файле [app.js](./app/serverless/functions/app.js) выясняем, что есть путь `/flag`:
 
