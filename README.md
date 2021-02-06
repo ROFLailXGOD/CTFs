@@ -16,4 +16,4 @@
 * [DownUnderCTF](/DownUnderCTF%202020)
 * [DarkCTF](/DarkCTF)
 * [Hack.lu CTF 2020](/Hack.lu%20CTF%202020)
-* [CyberSecurityRumble CTF]
+* [CyberSecurityRumble CTF](/CyberSecurityRumble%20CTF)
